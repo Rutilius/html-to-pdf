@@ -1,0 +1,12 @@
+{
+    "name": "html-to-pdf",
+    "version": "1.0.0",
+    "description": "HTML to PDF converter",
+    "author": "Rutilius",
+    "scripts": {
+        "build": "node lib/scripts/index.js"
+    },
+    "dependencies": {
+        "puppeteer": "^19.6.1"
+    }
+}
