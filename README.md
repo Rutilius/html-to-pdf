@@ -2,6 +2,8 @@
 
 This project will render an html page using an headless chome instance and converting it in a pdf file
 
+This is a fast and simple project to use it, fork it and add all the file that you want after it execute the command "npm run build" to create the pdf files in the "dist" folder
+
 ## Usage
 
 All '.html' document in the "src/pages" folder will be rendered as different pdf and the result will be in the "dist" folder  
